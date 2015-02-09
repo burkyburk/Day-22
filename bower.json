@@ -1,0 +1,23 @@
+{
+  "name": "Day-22",
+  "version": "0.0.0",
+  "homepage": "https://github.com/burkyburk/Day-22",
+  "authors": [
+    "Jacob Burkhart <jacobdouglasburkhart@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "mocha": "~2.1.0",
+    "chai": "~1.10.0"
+  },
+  "dependencies": {
+    "underscore": "~1.7.0"
+  }
+}
